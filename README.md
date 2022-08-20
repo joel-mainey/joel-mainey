@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @joel-mainey
-- 👀 I’m interested: in anime & games
 - 🌱 I’m currently learning: programming and web design
 
 <!---
