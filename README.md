@@ -1,6 +1,6 @@
-Hi, I’m Joel.
+### Hi, I’m Joel.
 
-I’m currently learning Software and Web Development along with Project Management.
+### I’m currently learning Software and Web Development along with Project Management.
 
 
 ## Microsoft Certifications
