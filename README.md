@@ -2,6 +2,8 @@ Hi, I’m Joel.
 I’m currently learning: Software and Web Development along with Project Management.
 
 
-Mircosoft Certifications
+## Mircosoft Certifications
 
-![microsoft-certified-fundamentals-badge](https://github.com/joel-mainey/joel-mainey/assets/64710295/391fd5b1-1ced-4193-8fd7-fab6f62dc260)
+AI900
+![azure-ai-fundamentals-600x600](https://github.com/joel-mainey/joel-mainey/assets/64710295/a3ed4c9a-1804-466c-ad3d-2dcb9b87b0b6)
+
