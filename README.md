@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @joel-mainey
-- 🌱 I’m currently learning: programming and web design
+Hi, I’m Joel.
+I’m currently learning: Software and Web Development along with Project Management.
 
-<!---
-joel-mainey/joel-mainey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Mircosoft Certifications
+
+![microsoft-certified-fundamentals-badge](https://github.com/joel-mainey/joel-mainey/assets/64710295/391fd5b1-1ced-4193-8fd7-fab6f62dc260)
