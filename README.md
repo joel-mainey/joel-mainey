@@ -1,8 +1,8 @@
 Hi, I’m Joel.
 
-I’m currently learning Software and Web Development along with Project Management.
+I’m currently learning Software and Web Development.
 
-<Resume src="https://incandescent-choux-757d2b.netlify.app/">
+<p>Resume src="https://incandescent-choux-757d2b.netlify.app/"></p>
 
 ## Microsoft Certifications
 
