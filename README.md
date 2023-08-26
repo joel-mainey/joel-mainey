@@ -2,7 +2,7 @@ Hi, I’m Joel.
 
 I’m currently learning Software and Web Development.
 
-<p>Resume src="https://incandescent-choux-757d2b.netlify.app/"></p>
+Resume: https://incandescent-choux-757d2b.netlify.app
 
 ## Microsoft Certifications
 
