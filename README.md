@@ -1,6 +1,8 @@
 Hi, I’m Joel.
 
-I’m currently learning Software and Web Development.
+I recently graduated with a bachelor's in information technology and am interested in getting a junior software developer position.
+
+My passions are front-end website development and .NET Android/IOS development.
 
 Resume: https://incandescent-choux-757d2b.netlify.app
 
