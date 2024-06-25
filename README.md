@@ -4,7 +4,7 @@ I recently graduated with a bachelor's in information technology and am interest
 
 My passions are front-end website development and .NET Android/IOS development.
 
-Resume: https://incandescent-choux-757d2b.netlify.app
+Project Resume: https://incandescent-choux-757d2b.netlify.app
 
 ## Microsoft Certifications
 
