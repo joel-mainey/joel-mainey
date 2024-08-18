@@ -4,7 +4,7 @@ I recently graduated with a bachelor's in information technology and am interest
 
 My passions are JavaScript frameworks such as React and .NET frameworks such as .NET MAUI.
 
-Project Resume: https://incandescent-choux-757d2b.netlify.app
+## [Portfolio](https://reactjs-portfolio-joel.netlify.app/)
 
 ## Microsoft Certifications
 
