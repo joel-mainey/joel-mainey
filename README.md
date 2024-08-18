@@ -1,8 +1,8 @@
 Hi, I’m Joel.
 
-I recently graduated with a bachelor's in information technology and am interested in getting a junior software developer position.
+I recently graduated with a bachelor's in information technology and am interested in junior web/software developer positions.
 
-My passions are front-end website development and .NET mobile development.
+My passions are JavaScript frameworks such as React and .NET frameworks such as .NET MAUI.
 
 Project Resume: https://incandescent-choux-757d2b.netlify.app
 
